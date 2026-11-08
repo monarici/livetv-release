@@ -1,0 +1,7 @@
+{
+  "versionCode": 14,
+  "versionName": "1.0.14",
+  "commitSha": "6426c61",
+  "apkUrl": "https://raw.githubusercontent.com/monarici/livetv-release/main/LiveTV.apk",
+  "changelog": "ci: use gradle/actions/setup-gradle to prevent 504 on wrapper download"
+}
